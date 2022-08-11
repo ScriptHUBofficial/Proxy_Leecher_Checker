@@ -3,8 +3,12 @@ Proxy Leecher Checker
 
 
 pip install requests
+
 pip install colorama
+
+
 pip install proxy_checker
+
 
 
 
