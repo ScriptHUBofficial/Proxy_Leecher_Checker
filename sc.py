@@ -1,3 +1,14 @@
+#                                                   8 8                                                                                                            
+#                                                ad88888ba     ,ad8888ba,   88888888ba   88  88888888ba  888888888888     88        88  88        88  88888888ba   
+#                                               d8" 8 8 "8b   d8"'    `"8b  88      "8b  88  88      "8b      88          88        88  88        88  88      "8b  
+#                                               Y8, 8 8      d8'            88      ,8P  88  88      ,8P      88          88        88  88        88  88      ,8P  
+#                                               `Y8a8a8a,    88             88aaaaaa8P'  88  88aaaaaa8P'      88          88aaaaaaaa88  88        88  88aaaaaa8P'  
+#                                                 `"8"8"8b,  88             88""""88'    88  88""""""'        88          88""""""""88  88        88  88""""""8b,  
+#                                                   8 8 `8b  Y8,            88    `8b    ""  88               88          88        88  88        88  88      `8b  
+#                                               Y8a 8 8 a8P   Y8a.    .a8P  88     `8b   aa  88               88          88        88  Y8a.    .a8P  88      a8P  
+#                                                "Y88888P"     `"Y8888Y"'   88      `8b  88  88               88          88        88   `"Y8888Y"'   88888888P"   
+#                                                   8 8                                                                                                            
+
 from os import system
 from colorama import Fore, init, Style
 import requests
